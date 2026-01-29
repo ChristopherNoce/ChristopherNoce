@@ -13,5 +13,7 @@ I previously worked at Linamar and Ontario Drive & Gear (through Argo Xtreme Ter
 Interested in automotive, advanced manufacturing, and large-scale industrial systems
 
 **Contact**
+
 Email: cnoce@uwaterloo.ca
+
 Linkedin: linkedin.com/in/christophernoce/
