@@ -39,7 +39,7 @@ class ChristopherNoce:
 
 ## 💼 What I'm Working On
 
-🔥 **Current Projects:**
+🔥 **Recent Projects:**
 - Optimizing thermal cure processes for large assemblies
 - Building VBA automation tools for manufacturing QA
 - Contributing to rocket propulsion systems @ Waterloo Rocketry
@@ -58,7 +58,6 @@ class ChristopherNoce:
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Engineering & Design
@@ -114,18 +113,6 @@ class ChristopherNoce:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherNoce&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherNoce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
@@ -134,7 +121,7 @@ I'm always interested in discussing:
 - Chemical engineering projects
 - Data-driven problem solving
 
-📫 **Reach out:** [LinkedIn](https://linkedin.com/in/christophernoce) | 📄 **Resume:** [View Here](https://github.com/ChristopherNoce/ChristopherNoce/blob/main/resume.pdf)
+📫 **Reach out:** [LinkedIn](https://linkedin.com/in/christophernoce) | 📄 **Resume:** [View Here](https://github.com/ChristopherNoce/christophernoce.github.io/blob/main/images/Christopher_Noce_Resume.pdf)
 
 ---
 
