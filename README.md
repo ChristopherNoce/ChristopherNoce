@@ -96,6 +96,8 @@ class ChristopherNoce:
 ---
 
 ## 🚀 Experience Highlights
+**Incoming Quality Engineer** @ NextStar Energy (LG ES & Stellantis JV) *(May 2026 - Aug 2026)*
+- Contributing to Canada's first large-scale Lithium ion battery production facility
 
 **Quality Engineer** @ Ontario Drive & Gear *(Sep 2025 - Dec 2025)*
 - Thermal process optimization through data-driven profiling
